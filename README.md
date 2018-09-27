@@ -1,3 +1,3 @@
-David Kopala
-CSCI 3308 Recitation - Git
+## David Kopala
+# CSCI 3308 Recitation - Git
 
